@@ -4,4 +4,4 @@ Tecnologias utilizadas HTML5, CSS3 e JavaScript. Nesse projeto foi aplicados os 
 
 # Executar Aplicação
 
-bastar abrir o arquivo `index.html` em um navegador de sua preferência
+Para iniciar a aplicação basta abrir o arquivo `index.html` em um navegador de sua preferência
